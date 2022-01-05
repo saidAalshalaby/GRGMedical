@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/GRGMedical/static/css/main.cf0590ae.chunk.css",
+    "main.js": "/GRGMedical/static/js/main.ef38ea07.chunk.js",
+    "main.js.map": "/GRGMedical/static/js/main.ef38ea07.chunk.js.map",
+    "runtime-main.js": "/GRGMedical/static/js/runtime-main.1b9ce1c9.js",
+    "runtime-main.js.map": "/GRGMedical/static/js/runtime-main.1b9ce1c9.js.map",
+    "static/js/2.d87948d5.chunk.js": "/GRGMedical/static/js/2.d87948d5.chunk.js",
+    "static/js/2.d87948d5.chunk.js.map": "/GRGMedical/static/js/2.d87948d5.chunk.js.map",
+    "index.html": "/GRGMedical/index.html",
+    "precache-manifest.7ad233a1a653840f1b562fb29c08bc61.js": "/GRGMedical/precache-manifest.7ad233a1a653840f1b562fb29c08bc61.js",
+    "service-worker.js": "/GRGMedical/service-worker.js",
+    "static/css/main.cf0590ae.chunk.css.map": "/GRGMedical/static/css/main.cf0590ae.chunk.css.map",
+    "static/js/2.d87948d5.chunk.js.LICENSE.txt": "/GRGMedical/static/js/2.d87948d5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/GRGMedical/static/media/imgCover.384e19dd.jpg",
+    "static/media/Antiseptic.png": "/GRGMedical/static/media/Antiseptic.c8cb0be5.png",
+    "static/media/Industrial.png": "/GRGMedical/static/media/Industrial.db0e67ec.png",
+    "static/media/Mask.png": "/GRGMedical/static/media/Mask.304e3405.png",
+    "static/media/img1.png": "/GRGMedical/static/media/img1.9e266c59.png",
+    "static/media/img10.png": "/GRGMedical/static/media/img10.9e266c59.png",
+    "static/media/img11.png": "/GRGMedical/static/media/img11.97e7eb16.png",
+    "static/media/img12.png": "/GRGMedical/static/media/img12.97e7eb16.png",
+    "static/media/img13.png": "/GRGMedical/static/media/img13.8096395a.png",
+    "static/media/img14.png": "/GRGMedical/static/media/img14.442102f4.png",
+    "static/media/img2.png": "/GRGMedical/static/media/img2.9e266c59.png",
+    "static/media/img3.png": "/GRGMedical/static/media/img3.9e266c59.png",
+    "static/media/img4.png": "/GRGMedical/static/media/img4.97e7eb16.png",
+    "static/media/img5.png": "/GRGMedical/static/media/img5.ccc48926.png",
+    "static/media/img6.png": "/GRGMedical/static/media/img6.ccc48926.png",
+    "static/media/img7.png": "/GRGMedical/static/media/img7.32ad2b06.png",
+    "static/media/img8.png": "/GRGMedical/static/media/img8.32ad2b06.png",
+    "static/media/img9.png": "/GRGMedical/static/media/img9.9e266c59.png",
+    "static/media/logo.png": "/GRGMedical/static/media/logo.e08487fe.png",
+    "static/media/offer.png": "/GRGMedical/static/media/offer.d6509e06.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b9ce1c9.js",
+    "static/js/2.d87948d5.chunk.js",
+    "static/css/main.cf0590ae.chunk.css",
+    "static/js/main.ef38ea07.chunk.js"
+  ]
+}
